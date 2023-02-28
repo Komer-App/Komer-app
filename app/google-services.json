@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "67731262744",
+    "project_id": "komerap-fa7da",
+    "storage_bucket": "komerap-fa7da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67731262744:android:81d728dc29249c6072626d",
+        "android_client_info": {
+          "package_name": "com.example.komerap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67731262744-s5prqj4hb82oiik1umkosd69vfhg5agc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOuUwR2WoReWibiw3tvBRFg3k9i85_Svc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67731262744-s5prqj4hb82oiik1umkosd69vfhg5agc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
